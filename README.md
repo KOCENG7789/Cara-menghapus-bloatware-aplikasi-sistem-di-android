@@ -20,6 +20,7 @@ salin perintah yang diatas lalu sesuai dengan pakage bloatware yang mau dihapus.
 note: nama pakage dapat dicari di info aplikasi, jika tidak menemukan bisa menggunakan apk pakage viewer.
 
 # Langkah keempat A(menggunakan bugjaeger)
+note: Langkah lanjutan nya ada di code pilih yang sesuai.
 
 # Langkah keempat B(menggunakan brevent)
-
+note: Langkah lanjutan nya ada di code pilih yang sesuai.
